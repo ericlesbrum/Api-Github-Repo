@@ -1,5 +1,6 @@
 {
   "name": "api-github-dev",
+  "description": "Projeto de estudo React 19 que consome a API do GitHub para exibir perfis e repositórios de usuários, utilizando Vite, Styled Components e React Router.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
